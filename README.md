@@ -1,2 +1,2 @@
 # elisa
-ELISA - External Linked ISA
+ELISA - Externally Link ISA
